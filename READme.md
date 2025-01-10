@@ -110,9 +110,10 @@ Example criteria:
 By following this process, I was able to derive actionable insights that help XYZ Financial Services make data-driven decisions regarding agent performance, customer behavior, and call strategy.
 
 
-### Dashboard
-![Interactive Sales/Product Performance Dashboard](XYZ-dashboard.png) 
+### Dashboard 👇
+![Interactive Sales Performance Dashboard Page 1](XYZ-dashboard.png) 
+![Interactive Sales Performance Dashboard Page 2](XYZ-dashboard.png) 
 
 
-### FUll report
+### FUll report 👇
 ![XYZ Financial Sales Report Analysis ](XYZ_Financial_Services__Sales_Performance_Analysis.pdf)
