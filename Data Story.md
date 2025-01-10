@@ -51,7 +51,7 @@ By following this process, I was able to derive actionable insights that helped 
 
 
 ### Report Dashboard 👇
-![Interactive Sales Performance Dashboard Page 1](XYZ-dashboard.png) 
+![Interactive Sales Performance Dashboard Page 1](XYZ-dashboard-1.png) 
 ![Interactive Sales Performance Dashboard Page 2](XYZ-dashboard.png)  
 
 
