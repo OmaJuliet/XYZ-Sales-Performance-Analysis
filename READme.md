@@ -2,6 +2,8 @@
 
 Dataset: "Product_Sales.csv" file
 
+Link to report on Looker Studio: https://lookerstudio.google.com/s/jJ1yV3S4wNc
+
 ## 1. Understand the Dataset
 The dataset contains 7 columns and 9,939 observations. It provides details about calls made by agents to customers and the sales generated.
 
@@ -115,5 +117,5 @@ By following this process, I was able to derive actionable insights that help XY
 ![Interactive Sales Performance Dashboard Page 2](XYZ-dashboard.png) 
 
 
-### FUll report 👇
+### Full report 👇
 ![XYZ Financial Sales Report Analysis ](XYZ_Financial_Services__Sales_Performance_Analysis.pdf)
